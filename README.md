@@ -30,4 +30,4 @@ Discord Channel :https://discord.com/channels/1176967037407469730
 
 All the update will visible on this channel
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+You can check out [the Next.js GitHub repository](https://github.com/Summit07/voting_Dapp_Discord) - your feedback and contributions are welcome!
